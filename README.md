@@ -10,3 +10,4 @@
 7. **Hole Filling:** Using dilation and erosion in sequence to fill gaps or holes within objects.
 8. **Boundary Extraction:** Identifies and extracts object boundaries, essential for isolating regions or detecting changes in images.
 9. **Edge Detection:** Using convolution techniques to detect vertical, horizontal, diagonal edges on images with and without in-built functions.
+10. **Video Processing Fundamentals:** Converting video to image frames and then applying techniques like blurring, sharpening, thresholding, contrast stretching, increasing or decreasing intensity.

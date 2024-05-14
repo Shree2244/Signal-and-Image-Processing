@@ -12,3 +12,5 @@
 9. **Edge Detection:** Using convolution techniques to detect vertical, horizontal, diagonal edges on images with and without in-built functions.
 10. **Video Processing Fundamentals:** Converting video to image frames and then applying techniques like blurring, sharpening, thresholding, contrast stretching, increasing or decreasing intensity.
 11. **Discrete Fourier Transform (DFT):** It is a fundamental mathematical operation that allows us to transform a time-domain signal into its frequency-domain representation. 
+12. **Upsampling:** Upscaling an image is the process of enlarging it without any loss in image quality.
+13. **Downsampling:** Downsampling is the reduction in spatial resolution while keeping the same two-dimensional (2D) representation.

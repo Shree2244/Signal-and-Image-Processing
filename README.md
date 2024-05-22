@@ -11,6 +11,7 @@
 8. **Boundary Extraction:** Identifies and extracts object boundaries, essential for isolating regions or detecting changes in images.
 9. **Edge Detection:** Using convolution techniques to detect vertical, horizontal, diagonal edges on images with and without in-built functions.
 10. **Video Processing Fundamentals:** Converting video to image frames and then applying techniques like blurring, sharpening, thresholding, contrast stretching, increasing or decreasing intensity.
-11. **Discrete Fourier Transform (DFT):** It is a fundamental mathematical operation that allows us to transform a time-domain signal into its frequency-domain representation. 
-12. **Upsampling:** Upscaling an image is the process of enlarging it without any loss in image quality.
-13. **Downsampling:** Downsampling is the reduction in spatial resolution while keeping the same two-dimensional (2D) representation.
+11. **Discrete Fourier Transform (DFT):** It is a fundamental mathematical operation that allows us to transform a time-domain signal into its frequency-domain representation. To speed up the DFT computation, an algorithm called FFT (Fast Fourier Transform) is used.
+12. **Inverse Discrete Fourier Transform:** The inverse discrete Fourier transform (IDFT) is a mathematical operation that is used to convert a digital signal represented in the frequency domain into the time domain.
+13. **Upsampling:** Upscaling an image is the process of enlarging it without any loss in image quality.
+14. **Downsampling:** Downsampling is the reduction in spatial resolution while keeping the same two-dimensional (2D) representation.
